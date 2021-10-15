@@ -66,3 +66,7 @@ a:hover {
 .footnote {
     font-size:xx-small;
 }
+
+div > p {
+    background-color:#f5f5f5;
+}
