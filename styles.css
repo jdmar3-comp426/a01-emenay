@@ -9,13 +9,6 @@
     use width / height to control geometry of an element
     validate as css3 using the w3c css validation tool (link on assignment) */
 
-.title {
-    text-align: center;
-    color: darkred;
-    font-size:xx-large;
-    font-family: 'Courier New', Courier, monospace;
-}
-
 .subtitle {
     text-align: center;
     color: darkslategray;
@@ -29,3 +22,28 @@ p.description {
     font-family:fantasy
 }
 
+.categories {
+    text-align:center;
+    background-color: lemonchiffon;
+    font-family: cursive;
+    font-size: medium;
+}
+
+a:hover {
+    color:mediumvioletred;
+}
+
+.main {
+    letter-spacing: 1em;
+    color:darkred;
+    text-align:center;
+    font-size:xx-large;
+    font-family:'Courier New', Courier, monospace;
+}
+
+#spice {
+    text-align:right;
+    background-color:dimgray;
+    width: 250px;
+    height: 69px;
+}
